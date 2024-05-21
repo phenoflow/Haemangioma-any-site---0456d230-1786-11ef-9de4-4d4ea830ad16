@@ -1,0 +1,39 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/haemangioma-any-site---primary.py
+inputModule3:
+  class: File
+  path: python/haemangioma-any-site-lymphangioma---primary.py
+inputModule4:
+  class: File
+  path: python/haemangioma-any-site-benign---primary.py
+inputModule5:
+  class: File
+  path: python/haemangioma-any-site-meningioma---primary.py
+inputModule6:
+  class: File
+  path: python/haemangioma---primary.py
+inputModule7:
+  class: File
+  path: python/haemangioma-any-site-maffuci's---primary.py
+inputModule8:
+  class: File
+  path: python/haemangioma-any-site-kast's---primary.py
+inputModule9:
+  class: File
+  path: python/haemangioma-any-site-[m]haemangioblastoma---primary.py
+inputModule10:
+  class: File
+  path: python/haemangioma-any-site-structure---primary.py
+inputModule11:
+  class: File
+  path: python/subcutaneous-haemangioma-any-site---primary.py
+inputModule12:
+  class: File
+  path: python/haemangioma-any-site-tumour---primary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
